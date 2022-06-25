@@ -1,0 +1,1 @@
+../../../external/HIP-Examples/reduction/reduction.cpp

@@ -1,3 +1,6 @@
 [submodule "external/HIP-Examples"]
 	path = external/HIP-Examples
 	url = https://github.com/ROCm-Developer-Tools/HIP-Examples.git
+[submodule "external/HIP"]
+	path = external/HIP
+	url = https://github.com/ROCm-Developer-Tools/HIP.git
