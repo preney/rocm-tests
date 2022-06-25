@@ -1,0 +1,3 @@
+[submodule "external/HIP-Examples"]
+	path = external/HIP-Examples
+	url = https://github.com/ROCm-Developer-Tools/HIP-Examples.git
